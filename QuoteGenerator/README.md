@@ -4,11 +4,6 @@
 
 This is a simple quote generator project done as part of the Route Academy Full-Stack bootcamp program. The project is built using basic HTML, CSS, and JavaScript to create a user-friendly interface that generates random quotes with a click of a button.
 
-## Demo
-
-<!-- If you have a live demo of your project, add the link below -->
-Check out the live demo [here](link-to-demo) <!-- Replace "link-to-demo" with the actual link to your live demo -->
-
 ## Technologies Used
 
 - HTML
@@ -26,7 +21,7 @@ Check out the live demo [here](link-to-demo) <!-- Replace "link-to-demo" with th
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/RouteAcademyProjects.git
+git clone https://github.com/alexnder394/RouteAcademyProjects.git
 ```
 
 2. Navigate to the "QuoteGenerator" directory:
