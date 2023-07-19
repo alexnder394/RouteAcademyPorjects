@@ -24,9 +24,9 @@ git clone https://github.com/alexnder394/RouteAcademyProjects.git
 
 Here's a brief overview of the projects you can find in this repository:
 
-1. Project 1 - Title of Project 1: A short description of the first project, its goals, and the technologies utilized.
+1. [Project 1](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/QuoteGenerator) - Quote Generator: This is a simple quote generator built using basic HTML, CSS, and JavaScript.
 
-2. Project 2 - Title of Project 2: A short description of the second project, its objectives, and the technologies employed.
+<!-- 2. Project 2 - Title of Project 2: A short description of the second project, its objectives, and the technologies employed. -->
 
 3. ... <!-- Continue the list with other projects -->
 
