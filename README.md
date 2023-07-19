@@ -13,7 +13,7 @@ This repository contains the projects I've completed as part of the Route Academ
 1. Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/RouteAcademyProjects.git
+git clone https://github.com/alexnder394/RouteAcademyProjects.git
 ```
 
 2. Navigate to a specific project's directory to explore its source code, documentation, and any additional resources.
