@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/all.min.css" />
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div class="container text-center p-5 fs-4">
+      <header>
+        <h1 class="font-monospace">Quote Of The Day</h1>
+        <button class="btn mt-5 btn-lg btn-info d-block" onclick="getQuotes()">
+          Get New Quote
+        </button>
+      </header>
+      <main class="mt-5">
+        <span></span>
+        <div>
+          <p id="quoteParagraph">
+            “One ought, every day at least, to hear a little song, read a good
+            poem, see a fine picture, and, if it were possible, to speak a few
+            reasonable words.”
+          </p>
+          <p id="quoteParagraphAuthor" class="text-danger">
+            ― Johann Wolfgang von Goethe
+          </p>
+        </div>
+      </main>
+    </div>
+
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
