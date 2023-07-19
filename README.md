@@ -36,7 +36,7 @@ I welcome contributions to this repository. If you find any issues or want to en
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license-file), so feel free to use, modify, and distribute the code as per the terms specified.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/), so feel free to use, modify, and distribute the code as per the terms specified.
 
 Thank you for visiting this repository, and I hope you find something useful or inspiring here. Happy coding! 😊
 
