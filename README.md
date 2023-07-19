@@ -28,7 +28,7 @@ Here's a brief overview of the projects you can find in this repository:
 
 <!-- 2. Project 2 - Title of Project 2: A short description of the second project, its objectives, and the technologies employed. -->
 
-3. ... <!-- Continue the list with other projects -->
+<!-- 3. ... Continue the list with other projects -->
 
 ## Contribution
 
