@@ -39,7 +39,3 @@ I welcome contributions to this repository. If you find any issues or want to en
 This project is licensed under the [MIT License](https://opensource.org/license/mit/), so feel free to use, modify, and distribute the code as per the terms specified.
 
 Thank you for visiting this repository, and I hope you find something useful or inspiring here. Happy coding! 😊
-
----
-
-*Note: Customize this README.md file as needed, adding project-specific details and updating the repository structure accordingly.*
