@@ -5,7 +5,7 @@
 This is a simple quote generator project done as part of the Route Academy Full-Stack bootcamp program. The project is built using basic HTML, CSS, and JavaScript to create a user-friendly interface that generates random quotes with a click of a button.
 
 ## Demo
-(Check out the live demo here)[]https://alexnder394.github.io/RouteAcademyPorjects/QuoteGenerator/index.html 
+[Check out the live demo here](https://alexnder394.github.io/RouteAcademyPorjects/QuoteGenerator/index.html)
 
 ## Technologies Used
 
