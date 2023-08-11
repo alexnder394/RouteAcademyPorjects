@@ -25,6 +25,7 @@ git clone https://github.com/alexnder394/RouteAcademyProjects.git
 Here's a brief overview of the projects you can find in this repository:
 
 1. [Project 1](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/QuoteGenerator) - Quote Generator: This is a simple quote generator built using basic HTML, CSS, and JavaScript.
+2. [Project 2](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/BookmarksDatabaseSystem) - Bookmarks Manager: JavaScript-powered Bookmarks Manager with intuitive CRUD functionality.
 
 <!-- 2. Project 2 - Title of Project 2: A short description of the second project, its objectives, and the technologies employed. -->
 
