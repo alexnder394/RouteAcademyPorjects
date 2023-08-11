@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="./bookmark.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="./css/all.min.css" />
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <title>Bookmarks Manager</title>
+  </head>
+  <body>
+    <div class="w-75 m-auto py-5 font-monospace fw-bold px-5 text-center mt-5">
+      <div>
+        <h1 class="fw-lighter">Bookmark any website you like!</h1>
+        <hr />
+        <div class="form-group">
+          <label class="fw-bold fs-5" for="bn">Bookmark Name</label>
+          <input type="text" name="bn" id="bn" class="form-control" />
+          <div class="invalid-feedback">
+            Bookmark name should start with a capital letter and contain only
+            letters.
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="fw-bold mt-3 fs-5" for="bl">Bookmark Link</label>
+          <input type="url" name="bl" id="bl" class="form-control mb-3" />
+          <div class="invalid-feedback">
+            Please enter a valid URL starting with 'http://' or 'https://'
+          </div>
+        </div>
+
+        <div class="my-3">
+          <button
+            onclick="createNewBookmark()"
+            class="btn btn-outline-dark me-2"
+            id="addBtn"
+            disabled
+          >
+            Add
+          </button>
+          <button onclick="clearInput()" class="btn btn-outline-danger">
+            Reset
+          </button>
+        </div>
+      </div>
+
+      <input
+        onkeyup="searchBookmarks(this.value)"
+        type="text"
+        placeholder="Search bookmark names"
+        class="my-3 form-control"
+      />
+      <div>
+        <table class="table">
+          <thead>
+            <th>Index</th>
+            <th>Website</th>
+            <th>Visit</th>
+            <th>Update</th>
+            <th>Delete</th>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+      <hr />
+      <footer>
+        <h6 class="text-muted">©2023 Bookmarks Database System</h6>
+      </footer>
+    </div>
+    <script src="./js/bootstrap.bundle.min.js "></script>
+    <script src="./js/main.js "></script>
+  </body>
+</html>
