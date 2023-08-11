@@ -1,6 +1,6 @@
 # Bookmarks Manager
 
-![Bookmarks Manager](https://ibb.co/1LMRqDg)
+![Bookmarks Manager](https://i.ibb.co/Y3XfkzC/Screenshot-2023-08-11-031558.png)
 
 This is a practical bookmarks manager built as a personal project to practice and enhance web development skills in the domain of CRUD operations. The project utilizes fundamental web technologies to offer an interactive interface for users to manage their favorite web links.
 
@@ -51,8 +51,4 @@ This project is under the [MIT License](https://opensource.org/license/mit/), gr
 
 ## Acknowledgments
 
-A special shout-out to everyone who provided invaluable feedback and suggestions during the development of this project.
-
----
-
-Please note: You should replace placeholders, like the image link and repository link, with the actual links related to your project.
+A special shout-out to everyone at Route Academy who provided invaluable feedback and suggestions during the development of this project.
