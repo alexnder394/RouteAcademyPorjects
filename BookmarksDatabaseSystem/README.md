@@ -5,7 +5,7 @@
 This is a practical bookmarks manager built as a personal project to practice and enhance web development skills in the domain of CRUD operations. The project utilizes fundamental web technologies to offer an interactive interface for users to manage their favorite web links.
 
 ## Demo
-[Experience the live demo here](https://alexnder394.github.io/RouteAcademyPorjects/BookmarksDatabaseSystem/index.html){:target="_blank"}
+[Experience the live demo here](https://alexnder394.github.io/RouteAcademyPorjects/BookmarksDatabaseSystem/index.html)
 
 ## Technologies Used
 
