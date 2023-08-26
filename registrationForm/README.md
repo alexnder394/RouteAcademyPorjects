@@ -23,7 +23,7 @@ This project is a simple, yet secure, login system built using HTML, CSS, JavaSc
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone [<repository_url>](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/registrationForm)
+    git clone https://github.com/alexnder394/RouteAcademyPorjects/tree/main/registrationForm
     ```
 2. Open the `index.html` file in a web browser of your choice.
 
