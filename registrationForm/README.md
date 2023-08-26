@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a simple, yet secure, login system built using HTML, CSS, JavaScript, and Bootstrap. It features user authentication via local storage and input validation.
+This project is a simple, yet secure, registration and login system built using HTML, CSS, JavaScript, and Bootstrap. It features user authentication via local storage and input validation.
 
 ## Features
 
