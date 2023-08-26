@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign In</title>
+    <link rel="stylesheet" href="./css/all.min.css" />
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div class="container py-5">
+      <div class="w-75 p-5 m-auto text-center group">
+        <h2 class="text-info mb-4">Sign In</h2>
+
+        <div class="mb-3">
+          <input
+            type="email"
+            class="form-control"
+            id="loginEmail"
+            placeholder="Please enter your email"
+          />
+        </div>
+        <div class="mb-3">
+          <input
+            type="password"
+            class="form-control mb-5"
+            id="loginPassword"
+            placeholder="Please enter your password"
+          />
+          <p class="text-danger d-none" id="emptyFieldsPrompt">
+            Please fill in all inputs first
+          </p>
+          <p class="text-danger d-none" id="incorrectPrompt">
+            Your email or password is incorrect - Please try again
+          </p>
+          <a
+            class="btn btn-outline-info w-100 mb-3 text-decoration-none"
+            id="loginBtn"
+            onclick="login()"
+            >Sign In</a
+          >
+          <p class="text-white">
+            Don't have an account?<a
+              href="./signUp.html"
+              class="text-white text-decoration-none"
+            >
+              Sign Up</a
+            >
+          </p>
+        </div>
+      </div>
+    </div>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/main.js"></script>
+  </body>
+</html>

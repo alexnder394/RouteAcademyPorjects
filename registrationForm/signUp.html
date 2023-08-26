@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="./css/all.min.css" />
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+
+  <body>
+    <div class="container py-5">
+      <div class="w-75 p-5 m-auto text-center group">
+        <h2 class="text-info mb-4">Sign Up</h2>
+
+        <div class="mb-3">
+          <input
+            type="text"
+            id="usernameInput"
+            class="form-control"
+            placeholder="Please enter your username"
+          />
+          <p id="userNameAlert" class="d-none text-danger">
+            Username must consist of letters only with a minimum of three characters. First letter must be
+            uppercase.          </p>
+        </div>
+
+        <div class="mb-3">
+          <input
+            type="email"
+            class="form-control"
+            id="emailInput"
+            placeholder="Please enter your email"
+          />
+          <p id="userEmailAlert" class="d-none text-danger">name@example.com</p>
+        </div>
+
+        <div class="mb-3">
+          <input
+            type="password"
+            class="form-control mb-5"
+            id="passwordInput"
+            placeholder="Please enter your password"
+          />
+          <p id="userPasswordAlert" class="d-none text-danger m-0">
+            Use a strong password, from 5 to 15 characters, numbers and special
+            symbols
+          </p>
+        </div>
+
+        <p class="text-danger d-none" id="confirmMsg">Success!</p>
+        <p class="text-danger d-none" id="accountExistMsg">
+          An account with the same email or username already exists! Please try
+          again!
+        </p>
+        <p class="text-danger d-none" id="tryAgainMsg">
+          Sign Up failed. Please try again!
+        </p>
+        <p class="text-danger d-none" id="emptyFieldsPrompt">
+          Please fill in all inputs first
+        </p>
+        <p class="text-danger d-none" id="incorrectPrompt">
+          Your email or password is incorrect - Please try again
+        </p>
+        <a
+          class="btn btn-outline-info w-100 mb-3 text-decoration-none"
+          id="loginBtn"
+          onclick="signUp()"
+          >Sign Up</a
+        >
+        <p class="text-white">
+          Already have an account?
+          <a href="index.html" class="text-white text-decoration-none"
+            >Sign In</a
+          >
+        </p>
+
+        <a
+          href="index.html"
+          class="d-none btn btn-outline-success text-white w-25 m-auto"
+          id="signin"
+          >Sign In</a
+        >
+      </div>
+    </div>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
