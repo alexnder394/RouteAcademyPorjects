@@ -2,7 +2,7 @@
 ![Registration System](https://i.ibb.co/BtC9sFm/Screenshot-2023-08-26-225001.png)
 
 ## Demo
-[Check out the live demo here](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/registrationForm)
+[Check out the live demo here](https://alexnder394.github.io/RouteAcademyPorjects/registrationForm/index.html)
 
 ## Description
 
