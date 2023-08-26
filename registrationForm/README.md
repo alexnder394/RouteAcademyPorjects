@@ -57,7 +57,3 @@ If you'd like to contribute, please fork the repository and make changes as you'
 ## License
 
 This project is open-sourced under the MIT license.
-
----
-
-Feel free to save this README and include it in your project repository. Would you like any further modifications?
