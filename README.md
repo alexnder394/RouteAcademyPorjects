@@ -28,9 +28,6 @@ Here's a brief overview of the projects you can find in this repository:
 2. [Project 2](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/BookmarksDatabaseSystem) - Bookmarks Manager: JavaScript-powered Bookmarks Manager with intuitive CRUD functionality.
 3. [Project 2](https://alexnder394.github.io/RouteAcademyPorjects/tree/main/registrationForm) - A simple and secure login system built with HTML, CSS, JavaScript, and Bootstrap, featuring user authentication and input validation.
 
-
-<!-- 3. ... Continue the list with other projects -->
-
 ## Contribution
 
 I welcome contributions to this repository. If you find any issues or want to enhance a particular project, feel free to submit a pull request. Let's learn and grow together!
