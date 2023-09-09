@@ -27,6 +27,7 @@ Here's a brief overview of the projects you can find in this repository:
 1. [Project 1](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/QuoteGenerator/README.md) - Quote Generator: This is a simple quote generator built using basic HTML, CSS, and JavaScript.
 2. [Project 2](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/BookmarksDatabaseSystem/README.md) - Bookmarks Manager: JavaScript-powered Bookmarks Manager with intuitive CRUD functionality.
 3. [Project 3](https://github.com/alexnder394/RouteAcademyPorjects/blob/main/registrationForm/README.md) - A simple and secure login system built with HTML, CSS, JavaScript, and Bootstrap, featuring user authentication and input validation.
+3. [Project 3](https://github.com/alexnder394/RouteAcademyPorjects/blob/main/simpleWeatherApp/README.md) - A simple and secure login system built with HTML, CSS, JavaScript, and Bootstrap, featuring user authentication and input validation.
 
 ## Contribution
 
