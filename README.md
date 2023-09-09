@@ -2,11 +2,11 @@
 
 ![RouteAcademyLogo](https://i.postimg.cc/vmqXcXq4/download.png) <!-- If you have a logo, replace "link-to-logo.png" with the relative or absolute path to your logo image -->
 
-Welcome to my Route Academy Projects! This repository serves as a compilation of all my projects completed during my journey with the Route Academy Full-Stack bootcamp program.
+Welcome to my Route Academy Projects! This repository serves as a compilation of all my projects completed during my journey with the Route Academy Full-Stack Bootcamp program.
 
 ## Repository Contents
 
-This repository contains the projects I've completed as part of the Route Academy Full-Stack bootcamp. Each project has its own dedicated directory, and you can find detailed information about each project, including its purpose, technologies used, and the skills I've gained throughout its development.
+This repository contains the projects I've completed as part of the Route Academy Full-Stack Bootcamp. Each project has its own dedicated directory, and you can find detailed information about each project, including its purpose, technologies used, and the skills I've gained throughout its development.
 
 ## How to Use This Repository
 
@@ -24,12 +24,9 @@ git clone https://github.com/alexnder394/RouteAcademyProjects.git
 
 Here's a brief overview of the projects you can find in this repository:
 
-1. [Project 1](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/QuoteGenerator) - Quote Generator: This is a simple quote generator built using basic HTML, CSS, and JavaScript.
-2. [Project 2](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/BookmarksDatabaseSystem) - Bookmarks Manager: JavaScript-powered Bookmarks Manager with intuitive CRUD functionality.
-
-<!-- 2. Project 2 - Title of Project 2: A short description of the second project, its objectives, and the technologies employed. -->
-
-<!-- 3. ... Continue the list with other projects -->
+1. [Project 1](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/QuoteGenerator/README.md) - Quote Generator: This is a simple quote generator built using basic HTML, CSS, and JavaScript.
+2. [Project 2](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/BookmarksDatabaseSystem/README.md) - Bookmarks Manager: JavaScript-powered Bookmarks Manager with intuitive CRUD functionality.
+3. [Project 3](https://github.com/alexnder394/RouteAcademyPorjects/blob/main/registrationForm/README.md) - A simple and secure login system built with HTML, CSS, JavaScript, and Bootstrap, featuring user authentication and input validation.
 
 ## Contribution
 
