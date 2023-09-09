@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(30, 32, 43);
+}
+main {
+  background-image: url(../images/noaa-kcvlb727mn8-unsplash.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.bg-main-color {
+  background-color: rgba(24, 27, 48, 0.905);
+}
+.bg-sec-color {
+  background-color: #262936d1;
+}
+input {
+  border: none;
+  box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+}
+.logo-img {
+  width: 80px;
+  height: 40px;
+}
+.small-fs {
+  font-size: 10px;
+}
+.fs-6 {
+  font-size: 12px;
+}
+.fs-big {
+  font-size: 84px;
+  font-weight: bolder;
+}
+.footer-icons {
+  width: 40px;
+  height: 40px;
+}
+.text-light-blue {
+  color: #009ad8;
+}
