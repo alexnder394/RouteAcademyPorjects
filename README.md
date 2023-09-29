@@ -28,7 +28,6 @@ Here's a brief overview of the projects you can find in this repository:
 2. [Project 2](https://github.com/alexnder394/RouteAcademyPorjects/tree/main/BookmarksDatabaseSystem/README.md) - Bookmarks Manager: JavaScript-powered Bookmarks Manager with intuitive CRUD functionality.
 3. [Project 3](https://github.com/alexnder394/RouteAcademyPorjects/blob/main/registrationForm/README.md) - Secure Login System: featuring user authentication and input validation.
 4. [Project 4](https://github.com/alexnder394/RouteAcademyPorjects/blob/main/simpleWeatherApp/README.md) - Weather Forecasting App: provides weather updates for the current day and the next two days.
-5. [Project 5](https://github.com/alexnder394/RouteAcademyPorjects/blob/main/firstReactProject/README.md) - Simple React project that demonstrates my understanding of state management in Reac.
 
 ## Contribution
 
